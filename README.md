@@ -12,4 +12,4 @@
 8. Cross-Evaluating the model on Yelp and Amazon Reviews
 9. Evaluating the models on Manually Inputted Reviews
 
-Buy Me a Coffee : https://buymeacoffee.com/yassirachag
+<a href="https://www.buymeacoffee.com/yassirachag" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
