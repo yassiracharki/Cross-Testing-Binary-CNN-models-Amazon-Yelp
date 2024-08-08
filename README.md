@@ -1,6 +1,6 @@
 # **Testing my Pretrained Binary Text Classification cnn models**
 
-#picture
+![10](https://github.com/user-attachments/assets/6719bd89-737a-40d4-9238-39bc4a7b2e6f)
 
 1. Imports and Downloads
 2. Functions
