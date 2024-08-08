@@ -11,3 +11,5 @@
 7. Padding and Label Encoding 
 8. Cross-Evaluating the model on Yelp and Amazon Reviews
 9. Evaluating the models on Manually Inputted Reviews
+
+Buy Me a Coffee : https://buymeacoffee.com/yassirachag
